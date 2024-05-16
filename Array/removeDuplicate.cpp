@@ -10,7 +10,6 @@ int removeDuplicateArray ( int arr[], int size){
    }
   } 
 return res;
-
 }
 
 int main(){
